@@ -1,0 +1,124 @@
+
+<!-- Her begynner headeren -->
+{| cellpadding="0" width=100% style="height:70px; border:1px solid #999999; background-color:{{{headerfarge|#f5f5f5}}};" |
+|[[Fil:Pirate Ship Black (cropped).svg|lenke={{{portalbildelenke|{{PAGENAME}}}}}|100px|left]]
+[[Fil:Pirate Ship Black (mirrored).svg|lenke={{{portalbildelenke|{{PAGENAME}}}}}|100px|right]]
+[[Fil:{{{portalbilde|Sjøfart portal.png}}}|lenke={{{portalbildelenke|{{PAGENAME}}}}}|center]]
+|}
+<!-- Her slutter headeren -->
+
+<!-- Her begynner venstre kolonne-->
+<!-- Her begynner introen -->
+{| border=0 cellspacing=0 cellpadding=0 style="width:100%; background:{{{bakgrunnsfarge|#f5f5f5}}}; border:1px solid {{{farge_ytre_kantlinje|#00003f}}}; font-size:95%;"
+|- 
+| colspan=2 |
+|-
+| colspan=2 height=15px |
+|-
+| width=60% valign=top style="background:{{{bakgrunnsfarge|#f5f5f5}}}; padding-left:10px; padding-bottom:2em; padding-right:20px; padding-top:1em;" | {{Portal:{{{navn|{{PAGENAME}}}}}/{{{intro|Intro}}}}}</p>
+<!-- Her slutter introen --><!--
+
+
+--><!-- Her begynner rute 1 -->
+{| width=100% cellpadding=2 cellspacing=0 style="background:none; margin-bottom:.5em; margin-top:.5em;" 
+|- 
+| style="border-bottom:2px solid {{{farge_indre_kantlinje|#00003f}}}; font-size:{{{tekststørrelse_overskrift|120}}}%; color:{{{farge_underrubrikk2}}};" |'''{{{venstre1_overskrift}}}'''
+|-
+| style="padding-top:1em;" |
+{{Portal:Sjøfart/{{{venstre1_tittel}}}/{{CURRENTMONTHNAME}}}}
+|}
+<!-- Her slutter rute 1-->
+<!-- De forskjellige rutene fortsetter videre i dette mønsteret -->
+
+{| width=100% cellpadding=2 cellspacing=0 style="background:none; margin-bottom:.5em; margin-top:.5em;" 
+|- 
+| style="border-bottom:2px solid {{{farge_indre_kantlinje|#00003f}}}; font-size:{{{tekststørrelse_overskrift|120}}}%; color:{{{farge_underrubrikk2}}};" |'''{{{venstre2_overskrift}}}'''
+|-
+| style="padding-top:1em;" |
+{{Portal:Sjøfart/{{{venstre2_tittel}}}/{{CURRENTMONTHNAME}}}}
+|}
+
+{| width=100% cellpadding=2 cellspacing=0 style="background:none; margin-bottom:.5em; margin-top:.5em;" 
+|- 
+| style="border-bottom:2px solid {{{farge_indre_kantlinje|#00003f}}}; font-size:{{{tekststørrelse_overskrift|120}}}%; color:{{{farge_underrubrikk3}}};" |'''{{{venstre3_overskrift}}}'''
+|-
+| style="padding-top:1em;" |
+{{Portal:Sjøfart/{{{venstre3_tittel}}}/{{CURRENTMONTHNAME}}}}
+|}
+
+{| width=100% cellpadding=2 cellspacing=0 style="background:none; margin-bottom:.5em; margin-top:.5em;" 
+|- 
+| style="border-bottom:2px solid {{{farge_indre_kantlinje|#00003f}}}; font-size:{{{tekststørrelse_overskrift|120}}}%; color:{{{farge_underrubrikk4}}};" |'''{{{venstre4_overskrift}}}'''
+|-
+| style="padding-top:1em;" |
+{{Portal:Sjøfart/{{{venstre4_tittel}}}}}
+|}
+
+{| width=100% cellpadding=2 cellspacing=0 style="background:none; margin-bottom:.5em; margin-top:.5em;" 
+|- 
+| style="border-bottom:2px solid {{{farge_indre_kantlinje|#00003f}}}; font-size:{{{tekststørrelse_overskrift|120}}}%; color:{{{farge_underrubrikk5}}};" |'''{{{venstre5_overskrift}}}'''
+|-
+| style="padding-top:1em;" |
+{{Portal:Sjøfart/{{{venstre5_tittel}}}}}
+|}
+
+<!-- Her slutter venstre kolonnne --><!--
+
+
+--><!-- Her begynner høyre kolonne -->
+| width=40% valign=top style="border-left:1px dotted #696969; padding-top:0em; padding-left:20px; padding-right:10px;" |
+{| width=100% cellpadding=2 cellspacing=0 style="background:none; margin-bottom:.5em; margin-top:.5em;" 
+|- 
+| style="border-bottom:1px dotted #696969; font-size:{{{tekststørrelse_overskrift|120}}}%; color:{{{farge_underrubrikk2}}};" |'''{{{høyre1_overskrift}}}'''
+|}
+{{Portal:Sjøfart/{{{høyre1_tittel}}}}}
+
+{| width=100% cellpadding=2 cellspacing=0 style="background:none; margin-bottom:.5em; margin-top:.5em;" 
+|- 
+| style="border-bottom:1px dotted #696969; font-size:{{{tekststørrelse_overskrift|120}}}%; color:{{{farge_underrubrikk2}}};" |'''{{{høyre2_overskrift}}}'''
+|-
+| style="padding-top:1em;" |
+{{Portal:Sjøfart/{{{høyre2_tittel}}}/{{CURRENTMONTHNAME}}}}
+|}
+
+{| width=100% cellpadding=2 cellspacing=0 style="background:none; margin-bottom:.5em; margin-top:.5em;" 
+|- 
+| style="border-bottom:1px dotted #696969; font-size:{{{tekststørrelse_overskrift|120}}}%; color:{{{farge_underrubrikk2}}};" |'''{{{høyre3_overskrift}}}'''
+|-
+| style="padding-top:1em;" |
+{{Portal:Sjøfart/{{{høyre3_tittel}}}}}
+|}
+
+{| width=100% cellpadding=2 cellspacing=0 style="background:none; margin-bottom:.5em; margin-top:.5em;" 
+|- 
+| style="border-bottom:1px dotted #696969; font-size:{{{tekststørrelse_overskrift|120}}}%; color:{{{farge_underrubrikk2}}};" |'''{{{høyre4_overskrift}}}'''
+|-
+| style="padding-top:1em;" |
+{{Portal:{{{navn|{{PAGENAME}}}}}/{{{høyre4_tittel}}}}}
+|}
+
+{| width=100% cellpadding=2 cellspacing=0 style="background:none; margin-bottom:.5em; margin-top:.5em;" 
+|- 
+| style="border-bottom:1px dotted #696969; font-size:{{{tekststørrelse_overskrift|120}}}%; color:{{{farge_underrubrikk2}}};" |'''{{{høyre5_overskrift}}}'''
+|}
+{{Portal:{{{navn|{{PAGENAME}}}}}/{{{høyre5_tittel}}}}}
+
+{| width=100% cellpadding=2 cellspacing=0 style="background:none; margin-bottom:.5em; margin-top:.5em;" 
+|- 
+| style="border-bottom:1px dotted #696969; font-size:{{{tekststørrelse_overskrift|120}}}%; color:{{{farge_underrubrikk2}}};" |'''{{{høyre6_overskrift}}}'''
+|}
+{{Portal:{{{navn|{{PAGENAME}}}}}/{{{høyre6_tittel}}}}}<!--
+
+
+--><!-- Her slutter høyre kolonne-->
+|-
+| colspan=2 height=1px style="text-indent:1em; background:{{{rubrikk_bg|#00003f}}};" | 
+|-
+| colspan=2 height=15px |
+|-
+| colspan=2 height=1px align=center style="text-indent:1em; background:{{{underrubrikk_bg|f5f5f5}}};" |
+<span style="font-family: Verdana; font-size:{{{tekststørrelse_overskrift|120}}}%; color:black">'''{{{overskrift_navigasjon}}}'''</span><br> 
+{{{navigasjon}}}
+|-
+| colspan=2 height=1px style="text-indent:1em; background:{{{rubrikk_bg|#00003f}}};" | 
+|}</includeonly>
